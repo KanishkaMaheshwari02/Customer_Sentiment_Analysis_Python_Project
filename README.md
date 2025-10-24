@@ -44,11 +44,3 @@
 - Apply advanced NLP models (VADER, BERT, or RoBERTa).
 - Export results to a dashboard (Power BI or Streamlit).
 
----
-
-## 👩‍💻 Author
-
-**Kanishka Maheshwari**  
-🎓 PGDM (MBA) | Data Analytics Enthusiast  
-📍 Jaipuria Institute of Management, Jaipur  
-📫 [LinkedIn]()
